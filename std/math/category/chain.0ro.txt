@@ -1,0 +1,3 @@
+first relation1 second
+second relation2 third
+first {.chain relation1 relation2} third

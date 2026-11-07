@@ -1,0 +1,6 @@
+concept relations
+concept .sufficient sub
+sub subrelations
+relations .equivalent subrelations
+
+.individable concept

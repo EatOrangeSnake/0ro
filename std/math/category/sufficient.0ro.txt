@@ -1,5 +1,5 @@
-conclusions .relations
-.relations
-conditions .relations
+conclusions relations
+relations
+conditions relations
 
 conditions .sufficient conclusions
