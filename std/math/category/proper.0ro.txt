@@ -1,0 +1,4 @@
+first .inquivalent second
+first .necessary second
+
+first .proper second

@@ -1,0 +1,4 @@
+relation1 a
+relation2 b
+relation {a .and b}
+{relation1 .both relation2} .equivalent relation

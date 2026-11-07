@@ -1,0 +1,1 @@
+conditions .opposite {.not conditions}

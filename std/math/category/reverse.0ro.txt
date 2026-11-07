@@ -1,0 +1,3 @@
+a relations b
+b rev a
+relations .reverse rev

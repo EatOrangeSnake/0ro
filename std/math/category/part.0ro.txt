@@ -1,0 +1,1 @@
+conditions .proper {.part conditions}

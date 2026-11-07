@@ -1,0 +1,1 @@
+{first .xnor second} .equivalent {.not {first .xor second}}

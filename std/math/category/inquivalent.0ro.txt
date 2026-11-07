@@ -1,0 +1,2 @@
+first .equivalent {.not second}
+first .inquivalent second
